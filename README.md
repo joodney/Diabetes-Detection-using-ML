@@ -54,16 +54,3 @@ Each notebook demonstrates:
 
 ---
 
-## **Future Improvements**
-- Add feature selection techniques to improve accuracy.
-- Experiment with deep learning models for better performance.
-- Perform hyperparameter tuning for ML algorithms.
-
----
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
-Let me know if you’d like to adjust or add specific details!
