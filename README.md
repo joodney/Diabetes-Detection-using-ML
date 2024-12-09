@@ -1,6 +1,7 @@
 # **Diabetes Detection Using Machine Learning**
 
 This repository contains the implementation of various machine learning algorithms to detect diabetes in the implementation of what we, students of king Abdul-Aziz univesrity, computuer scinece students, learned over the course of Artificial Intellignce topics of CPCS433. The aim is to analyze the dataset, preprocess the data, and apply ML techniques for effective diabetes prediction.
+This work is presented to Dr. Nahed Al-owaidi
 
 ---
 
